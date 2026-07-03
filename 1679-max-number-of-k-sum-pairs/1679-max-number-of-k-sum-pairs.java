@@ -1,21 +1,15 @@
 class Solution {
     public int maxOperations(int[] nums, int k) {
-        int left = 0;
-        int right = nums.length-1;
+        HashMap<Integer,Integer> map = new HashMap<>();
         int count=0;
-        Arrays.sort(nums);
-        while(left<right){
-            int ans = nums[left]+nums[right];
-            if(ans==k){
+        for(int i:nums){
+            int target=k-i;
+            if(map.getOrDefault(target,0)>0){
                 count++;
-                left++;
-                right--;
-            }
-            else if(ans<k){
-                left++;
+                map.put(target,map.get(target)-1);
             }
             else{
-                right--;
+                map.put(i,map.getOrDefault(i,0)+1);
             }
         }
         return count;
