@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shaswata9/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shaswata9/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/Shaswata9/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
+| [1732-find-the-highest-altitude](https://github.com/Shaswata9/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shaswata9/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Shaswata9/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shaswata9/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Shaswata9/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Shaswata9/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 ## Counting
 |  |
 | ------- |
