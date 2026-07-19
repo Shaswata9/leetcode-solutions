@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shaswata9/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/Shaswata9/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Shaswata9/leetcode-solutions/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [3028-ant-on-the-boundary](https://github.com/Shaswata9/leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
 ## Hash Table
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/Shaswata9/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Shaswata9/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Shaswata9/leetcode-solutions/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [3028-ant-on-the-boundary](https://github.com/Shaswata9/leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
 ## Counting
 |  |
 | ------- |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Shaswata9/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+## Simulation
+|  |
+| ------- |
+| [3028-ant-on-the-boundary](https://github.com/Shaswata9/leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
