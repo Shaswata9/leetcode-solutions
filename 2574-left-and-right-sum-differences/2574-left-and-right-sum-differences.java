@@ -9,12 +9,7 @@ class Solution {
         int[] res=new int[nums.length];
         for(int i =0;i<nums.length;i++){
             rightSum=total-leftSum-nums[i];
-            if(rightSum>leftSum){
-                res[i]=rightSum-leftSum;
-            }
-            else{
-                res[i]=leftSum-rightSum;
-            }
+            res[i]=Math.abs(rightSum-leftSum);
             leftSum+=nums[i];
         }
         return res;
