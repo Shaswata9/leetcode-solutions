@@ -5,11 +5,10 @@ class Solution {
             total+=num;
         }
         int leftSum=0;
-        int rightSum=total;
         int[] res=new int[nums.length];
         for(int i =0;i<nums.length;i++){
-            rightSum=total-leftSum-nums[i];
-            res[i]=Math.abs(rightSum-leftSum);
+            total-= nums[i];
+            res[i]=Math.abs(total-leftSum);
             leftSum+=nums[i];
         }
         return res;
