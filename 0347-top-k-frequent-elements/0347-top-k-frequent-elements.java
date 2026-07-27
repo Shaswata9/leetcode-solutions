@@ -5,7 +5,7 @@ class Solution {
             map.put(num, map.getOrDefault(num, 0) + 1);
         }
         List<Integer> arr = new ArrayList<>(map.keySet());
-        arr.sort((a, b) -> map.get(b) - map.get(a));
+        arr.sort((a, b) -> Integer.compare(map.get(b),map.get(a)));
         int[] ans = new int[k];
         for (int i = 0; i < k; i++) {
             ans[i] = arr.get(i);
