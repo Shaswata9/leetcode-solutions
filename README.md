@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Shaswata9/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Shaswata9/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Shaswata9/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/Shaswata9/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Shaswata9/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Shaswata9/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shaswata9/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Shaswata9/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Shaswata9/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shaswata9/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Shaswata9/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shaswata9/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shaswata9/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Shaswata9/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shaswata9/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Shaswata9/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shaswata9/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Shaswata9/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/Shaswata9/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Shaswata9/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shaswata9/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shaswata9/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shaswata9/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Design
 |  |
@@ -254,4 +258,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3028-ant-on-the-boundary](https://github.com/Shaswata9/leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shaswata9/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shaswata9/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shaswata9/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shaswata9/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
