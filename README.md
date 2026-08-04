@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Shaswata9/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Shaswata9/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Shaswata9/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/Shaswata9/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0904-fruit-into-baskets](https://github.com/Shaswata9/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shaswata9/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shaswata9/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Shaswata9/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Shaswata9/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Shaswata9/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/Shaswata9/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shaswata9/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Shaswata9/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Trie
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Shaswata9/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shaswata9/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Shaswata9/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0791-custom-sort-string](https://github.com/Shaswata9/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/Shaswata9/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Shaswata9/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shaswata9/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
