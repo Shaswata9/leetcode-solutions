@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Shaswata9/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shaswata9/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2256-minimum-average-difference](https://github.com/Shaswata9/leetcode-solutions/tree/master/2256-minimum-average-difference) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shaswata9/leetcode-solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shaswata9/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/Shaswata9/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Shaswata9/leetcode-solutions/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shaswata9/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/Shaswata9/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shaswata9/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shaswata9/leetcode-solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shaswata9/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Shaswata9/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shaswata9/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shaswata9/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shaswata9/leetcode-solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shaswata9/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Shaswata9/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shaswata9/leetcode-solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Bucket Sort
 |  |
 | ------- |
