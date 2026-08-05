@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Shaswata9/leetcode-solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shaswata9/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Shaswata9/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1487-making-file-names-unique](https://github.com/Shaswata9/leetcode-solutions/tree/master/1487-making-file-names-unique) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shaswata9/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/Shaswata9/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shaswata9/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Shaswata9/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/Shaswata9/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shaswata9/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1487-making-file-names-unique](https://github.com/Shaswata9/leetcode-solutions/tree/master/1487-making-file-names-unique) |
 | [1512-number-of-good-pairs](https://github.com/Shaswata9/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/Shaswata9/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shaswata9/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Shaswata9/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Shaswata9/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shaswata9/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1487-making-file-names-unique](https://github.com/Shaswata9/leetcode-solutions/tree/master/1487-making-file-names-unique) |
 | [1768-merge-strings-alternately](https://github.com/Shaswata9/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
