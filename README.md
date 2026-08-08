@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Shaswata9/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Shaswata9/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Shaswata9/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Shaswata9/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shaswata9/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shaswata9/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shaswata9/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Shaswata9/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Shaswata9/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Shaswata9/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Shaswata9/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shaswata9/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shaswata9/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Shaswata9/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Shaswata9/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/Shaswata9/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Shaswata9/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Shaswata9/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shaswata9/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shaswata9/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shaswata9/leetcode-solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
