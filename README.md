@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Shaswata9/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shaswata9/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shaswata9/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1122-relative-sort-array](https://github.com/Shaswata9/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Shaswata9/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shaswata9/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shaswata9/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Shaswata9/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shaswata9/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shaswata9/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1122-relative-sort-array](https://github.com/Shaswata9/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Shaswata9/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shaswata9/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1487-making-file-names-unique](https://github.com/Shaswata9/leetcode-solutions/tree/master/1487-making-file-names-unique) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Shaswata9/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Shaswata9/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shaswata9/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/Shaswata9/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shaswata9/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shaswata9/leetcode-solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Linked List
@@ -373,8 +376,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Shaswata9/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0976-largest-perimeter-triangle](https://github.com/Shaswata9/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1122-relative-sort-array](https://github.com/Shaswata9/leetcode-solutions/tree/master/1122-relative-sort-array) |
 ## Polygons
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Shaswata9/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Shaswata9/leetcode-solutions/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Shaswata9/leetcode-solutions/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
