@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Shaswata9/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Shaswata9/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Shaswata9/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Shaswata9/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shaswata9/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shaswata9/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shaswata9/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Shaswata9/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/Shaswata9/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Shaswata9/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Shaswata9/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shaswata9/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Shaswata9/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shaswata9/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -342,12 +344,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Shaswata9/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Shaswata9/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Shaswata9/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shaswata9/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Shaswata9/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Shaswata9/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/Shaswata9/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shaswata9/leetcode-solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Bucket Sort
 |  |
@@ -355,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Shaswata9/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Shaswata9/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Shaswata9/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/Shaswata9/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -384,9 +389,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Shaswata9/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/Shaswata9/leetcode-solutions/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Shaswata9/leetcode-solutions/tree/master/1122-relative-sort-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shaswata9/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shaswata9/leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
