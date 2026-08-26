@@ -8,14 +8,12 @@ public class Solution extends VersionControl {
         int ans = Integer.MAX_VALUE;
         while (left <= right) {
             int mid = left + (right - left) / 2;
-            boolean check = isBadVersion(mid);
-            if (check == true) {
-                ans = Math.min(ans, mid);
+            if (isBadVersion(mid)) {
                 right = mid - 1;
             } else {
                 left = mid + 1;
             }
         }
-        return ans;
+        return left;
     }
 }
