@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shaswata9/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/Shaswata9/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/Shaswata9/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Shaswata9/leetcode-solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shaswata9/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shaswata9/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2256-minimum-average-difference](https://github.com/Shaswata9/leetcode-solutions/tree/master/2256-minimum-average-difference) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Shaswata9/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shaswata9/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shaswata9/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Shaswata9/leetcode-solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 ## Sorting
 |  |
 | ------- |
