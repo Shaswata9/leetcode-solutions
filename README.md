@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shaswata9/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Shaswata9/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Shaswata9/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Shaswata9/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Shaswata9/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Shaswata9/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Shaswata9/leetcode-solutions/tree/master/0179-largest-number) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shaswata9/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Shaswata9/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -463,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Shaswata9/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shaswata9/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
