@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Shaswata9/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/Shaswata9/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Shaswata9/leetcode-solutions/tree/master/0791-custom-sort-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Shaswata9/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shaswata9/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1487-making-file-names-unique](https://github.com/Shaswata9/leetcode-solutions/tree/master/1487-making-file-names-unique) |
 | [1768-merge-strings-alternately](https://github.com/Shaswata9/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shaswata9/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shaswata9/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Shaswata9/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Shaswata9/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Recursion
 |  |
 | ------- |
